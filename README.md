@@ -4,7 +4,7 @@
 # Great Feature: 
 OvO's library includes a login page and a cool security feature, the bypass option.
 
-# About OvO's Library
+# About OvO's Diary
 This prototype was designed to make a safe environment for any user's private information. PGKNT created OvO's diary as a mini project to learn Batch scripting. You can store passwords, and secrets like a functional diary. 
 
 # Prototype
